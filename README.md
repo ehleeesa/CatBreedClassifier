@@ -43,11 +43,14 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 ## Training Results
 
 ### **Accuracy & Loss**
-![accuracy](images/accuracy_curve_beige.png)
-![loss](images/loss_curve_beige.png)
+![accuracy](<img width="681" height="456" alt="image" src="https://github.com/user-attachments/assets/0822ceb7-7e79-4ad2-90fa-877c48b5a98d" />
+)
+![loss](<img width="677" height="456" alt="image" src="https://github.com/user-attachments/assets/408bf52e-3d6f-4bbf-9311-6a69b6c94d3c" />
+)
 
 ### **Confusion Matrix**
-![confusion_matrix](images/confusion_matrix_bej.png)
+![confusion_matrix](<img width="690" height="646" alt="image" src="https://github.com/user-attachments/assets/c33dd786-2bbd-40ae-8bd2-c2cd3dc106f7" />
+)
 
 ---
 
@@ -57,7 +60,9 @@ Real test images passed through the Gradio interface.
 
 | Maine Coon Prediction | British Shorthair Prediction |
 |----------------------|------------------------------|
-| ![mc](images/pred_maine_coon.png) | ![bs](images/pred_british.png) |
+| ![mc](<img width="722" height="448" alt="image" src="https://github.com/user-attachments/assets/6c51ea3d-a1d4-4579-96bb-13530eb0e723" />
+) | ![bs](<img width="713" height="448" alt="image" src="https://github.com/user-attachments/assets/5eb0acb7-e76d-4261-96b1-dc399b1218f3" />
+) |
 
 ---
 
