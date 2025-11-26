@@ -17,7 +17,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Dataset
+## Dataset:
 
 - **Oxford-IIT Pet Dataset**
 - Contains:  
@@ -28,7 +28,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Model Architecture
+## Model architecture:
 
 - Backbone: **ResNet18**
 - Pretrained on **ImageNet**
@@ -40,7 +40,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Training Results
+## Training results:
 
 ### **Accuracy & Loss**
 ![accuracy](<img width="681" height="456" alt="image" src="https://github.com/user-attachments/assets/0822ceb7-7e79-4ad2-90fa-877c48b5a98d" />
@@ -54,7 +54,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Example Predictions
+## Example predictions:
 
 Real test images passed through the Gradio interface.
 
@@ -65,7 +65,7 @@ Real test images passed through the Gradio interface.
 
 ---
 
-## How to Run
+## How to run:
 
 ### **1. Install dependencies**
 ```bash
@@ -88,14 +88,14 @@ python app.py
 - Pillow
 - NumPy
 
-## Future Improvements
+## Future improvements:
 
 - Add more cat breeds
 - Predict cat age from image
 - Add genetic disease risk predictions
 - Automatic cat detection (face/full-body)
 
-## References
+## References:
 
 O. M. Parkhi, A. Vedaldi, A. Zisserman, C. V. Jawahar,“Cats and Dogs,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012. Oxford-IIT Pet Dataset. (https://www.robots.ox.ac.uk/~vgg/data/pets)
 
