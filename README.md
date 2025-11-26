@@ -59,7 +59,10 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ## Example predictions:
 
-Real test images passed through the Gradio interface.
+Real test images passed through the Gradio interface, as seen below:
+
+
+<div align="center"> <table> <tr> <th>Maine Coon Prediction</th> <th>British Shorthair Prediction</th> </tr> <tr> <td> <img src="https://github.com/user-attachments/assets/6c51ea3d-a1d4-4579-96bb-13530eb0e723" width="350"/> </td> <td> <img src="https://github.com/user-attachments/assets/5eb0acb7-e76d-4261-96b1-dc399b1218f3" width="350"/> </td> </tr> </table> </div>
 
 | Maine Coon Prediction | British Shorthair Prediction |
 |-----------------------|------------------------------|
