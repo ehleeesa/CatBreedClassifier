@@ -42,15 +42,18 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ## Training results:
 
-### **Accuracy & Loss**
-![accuracy](<img width="681" height="456" alt="image" src="https://github.com/user-attachments/assets/0822ceb7-7e79-4ad2-90fa-877c48b5a98d" />
-)
-![loss](<img width="677" height="456" alt="image" src="https://github.com/user-attachments/assets/408bf52e-3d6f-4bbf-9311-6a69b6c94d3c" />
-)
+<h3><b>Accuracy & Loss</b></h3>
 
-### **Confusion Matrix**
-![confusion_matrix](<img width="690" height="646" alt="image" src="https://github.com/user-attachments/assets/c33dd786-2bbd-40ae-8bd2-c2cd3dc106f7" />
-)
+<p>
+  <img src="https://github.com/user-attachments/assets/0822ceb7-7e79-4ad2-90fa-877c48b5a98d" alt="accuracy" width="450">
+  <img src="https://github.com/user-attachments/assets/408bf52e-3d6f-4bbf-9311-6a69b6c94d3c" alt="loss" width="450">
+</p>
+
+<h3><b>Confusion Matrix</b></h3>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/c33dd786-2bbd-40ae-8bd2-c2cd3dc106f7" alt="confusion matrix" width="600">
+</p>
 
 ---
 
