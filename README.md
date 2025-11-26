@@ -59,10 +59,9 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 Real test images passed through the Gradio interface.
 
 | Maine Coon Prediction | British Shorthair Prediction |
-|----------------------|------------------------------|
-| ![mc](<img width="722" height="448" alt="image" src="https://github.com/user-attachments/assets/6c51ea3d-a1d4-4579-96bb-13530eb0e723" />
-) | ![bs](<img width="713" height="448" alt="image" src="https://github.com/user-attachments/assets/5eb0acb7-e76d-4261-96b1-dc399b1218f3" />
-) |
+|-----------------------|------------------------------|
+| <img src="https://github.com/user-attachments/assets/6c51ea3d-a1d4-4579-96bb-13530eb0e723" width="350"/> | <img src="https://github.com/user-attachments/assets/5eb0acb7-e76d-4261-96b1-dc399b1218f3" width="350"/> |
+
 
 ---
 
