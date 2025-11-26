@@ -5,7 +5,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Features:
+## Features
 
 - Classification of **12 cat breeds**  
 - Transfer Learning using **ResNet18 (ImageNet pretrained)**  
@@ -17,7 +17,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Dataset:
+## Dataset
 
 - **Oxford-IIT Pet Dataset**
 - Contains:  
@@ -28,7 +28,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Model architecture:
+## Model architecture
 
 - Backbone: **ResNet18**
 - Pretrained on **ImageNet**
@@ -40,7 +40,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Training results:
+## Training results
 
 <h3><b>Accuracy & Loss</b></h3>
 
@@ -62,7 +62,7 @@ The system includes **complete preprocessing**, **training scripts**, **evaluati
 
 ---
 
-## Example predictions:
+## Example predictions
 
 Real test images passed through the Gradio interface, as seen below:
 
@@ -72,7 +72,7 @@ Real test images passed through the Gradio interface, as seen below:
 
 ---
 
-## How to run:
+## How to run
 
 ### **1. Install dependencies**
 ```bash
@@ -86,7 +86,7 @@ python train.py
 ```bash
 python app.py
 ```
-## Technologies Used
+## Technologies used
 - Python, PyTorch
 - ResNet18
 - Scikit-learn
@@ -95,14 +95,14 @@ python app.py
 - Pillow
 - NumPy
 
-## Future improvements:
+## Future improvements
 
 - Add more cat breeds
 - Predict cat age from image
 - Add genetic disease risk predictions
 - Automatic cat detection (face/full-body)
 
-## References:
+## References
 
 O. M. Parkhi, A. Vedaldi, A. Zisserman, C. V. Jawahar,“Cats and Dogs,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012. Oxford-IIT Pet Dataset. (https://www.robots.ox.ac.uk/~vgg/data/pets)
 
